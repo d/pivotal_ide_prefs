@@ -4,7 +4,7 @@ module Cli
   module Ide
     class ClionUserPrefDir < JetBrainsIdeUserPrefDir
       def ide_pref_dir_name_without_version
-        'Clion'
+        'CLion'
       end
 
       def default_ide_pref_dir_version
